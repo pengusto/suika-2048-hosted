@@ -405,3 +405,12 @@ body.dark-mode .x8192 {
     background-color: #8b0000;
     color: #fff;
 }
+
+/* Keep the project explanation separate from the game board layout. */
+.game-info {
+    max-width: 720px;
+    margin: 32px auto;
+    padding: 0 24px;
+    line-height: 1.6;
+}
+.game-info a { color: inherit; }

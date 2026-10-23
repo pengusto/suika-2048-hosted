@@ -1,5 +1,13 @@
 # Suika 2048
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/suika-2048-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="docs/assets/suika-2048-light.png">
+  <img src="docs/assets/suika-2048-light.png" alt="Suika 2048 — a penguin combines illustrated fruit and number puzzle pieces." width="100%">
+</picture>
+
+*AI-generated concept illustration · portfolio prototype, not a game screenshot.*
+
 **Slide a grid. Grow a fruit bowl. Chase 2048.**
 
 A small browser-game portfolio prototype that gives classic 2048 a fruit-themed look. Use the arrow keys to merge equal tiles, or switch to a color theme to see the numbers directly. Built with plain HTML, CSS and JavaScript for players who want a quick keyboard puzzle and learners exploring a build-free web game.
@@ -69,3 +77,5 @@ Created by [Enis Uysal / pengusto](https://github.com/pengusto) as a portfolio p
 The repository contains an unchanged [MIT License](LICENSE), copyright © 2025 Enis Uysal. **Asset reuse needs separate attention:** the earlier project documentation identifies the fruit images as generated with generative AI and limits their intended use to noncommercial demonstrations and prototyping. It does not identify the generation tool, its terms or a separate asset license, and does not document the provenance of the number images. Those asset permissions remain unresolved; the code license alone should not be read as confirmation of rights to reuse the tile artwork commercially.
 
 No official affiliation with the games that inspired this prototype is claimed. This is a demonstration project and needs further review before production or commercial reuse.
+
+The README banner was generated separately from the game artwork. See [banner provenance](docs/assets/README.md) for its source and scope.
