@@ -10,7 +10,7 @@ A modern, visually enhanced 2048 game inspired by Suika Game, built as a portfol
 
 The project is deployed and publicly available via GitHub Pages:
 
-👉 [View the Live Project on GitHub Pages](https://enis-uys.github.io/suika-2048-hosted/)  
+👉 [View the Live Project on GitHub Pages](https://pengusto.github.io/suika-2048-hosted/)
 
 ---
 
@@ -19,7 +19,7 @@ The project is deployed and publicly available via GitHub Pages:
 - **Classic 2048 Gameplay:** Slide and merge tiles to reach 2048.
 - **Multiple Themes:** Choose between fruit or number tiles. Fruit images were generated using generative AI (GenAI).
 - **Dark & Light Mode:** Toggle between dark and light themes for comfortable play in any environment.
-- **Responsive Design:** Works on desktop and mobile.
+- **Keyboard Controls:** Use the arrow keys to move tiles. Touch controls are not implemented.
 - **Animated UI:** Smooth transitions, modern look, and intuitive controls.
 
 ---
